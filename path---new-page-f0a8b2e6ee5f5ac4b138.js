@@ -1,0 +1,2 @@
+webpackJsonp([0x5d16ea1533fc],{342:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Rishacha's Portfolio Landing Page",description:"A Gatsby.js Starter based on Dimension by HTML5 UP"}}},pathContext:{}}}});
+//# sourceMappingURL=path---new-page-f0a8b2e6ee5f5ac4b138.js.map
