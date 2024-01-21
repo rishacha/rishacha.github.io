@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "ML Engineer during the weekdays, learning music production during weekends.\nNot just this, I’m also trying to get into tech. Not the best way to get through with the main course."
+  },
+  {
+    "objectID": "posts/switching-to-quarto/index.html",
+    "href": "posts/switching-to-quarto/index.html",
+    "title": "Switching to Quarto",
+    "section": "",
+    "text": "After a lot of struggling around with Pelican and its rendering of Jupyter Notebooks and Latex equations, I’m switching over to Quarto.\n\n\n\\[\\sum_{n}^{i^2} \\frac{3x}{2}\\]\n\nimport numpy as np"
+  },
+  {
+    "objectID": "posts/switching-to-quarto/index.html#trying-out-some-math",
+    "href": "posts/switching-to-quarto/index.html#trying-out-some-math",
+    "title": "Switching to Quarto",
+    "section": "",
+    "text": "\\[\\sum_{n}^{i^2} \\frac{3x}{2}\\]\n\nimport numpy as np"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Can you please keep it simple?",
+    "section": "",
+    "text": "Switching to Quarto\n\n\n\n\n\n\n\nblog\n\n\ntech\n\n\n\n\nAfter struggling a lot with issues like rendering jupyter notebooks (css theming, latex etc.) while using Pelican, I decided to switch …\n\n\n\n\n\n\nDec 28, 2023\n\n\nRishabh Chakrabarti\n\n\n\n\n\n\nNo matching items"
+  }
+]
