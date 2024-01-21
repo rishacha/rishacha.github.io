@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Can you please keep it simple?"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/rishacha
+      - icon: twitter
+        href: https://twitter.com/basedevel
+format:
+  html:
+    theme: lux
+    css: styles.css
+
+
+

@@ -1,0 +1,25 @@
+---
+title: Switching to Quarto
+author: Rishabh Chakrabarti
+date: '2023-12-28'
+categories:
+  - blog
+  - tech
+image: image.jpg
+abstract: > 
+  After struggling a lot with issues like rendering jupyter notebooks
+  (css theming, latex etc.) while using Pelican, I decided to switch ...
+jupyter: python3
+---
+
+# Trying out Quarto's new features
+
+After a lot of struggling around with Pelican and its rendering of Jupyter Notebooks and Latex equations, I'm switching over to Quarto. 
+
+## Trying out some math !!
+$$\sum_{n}^{i^2} \frac{3x}{2}$$
+
+```{python}
+import numpy as np
+```
+

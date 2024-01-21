@@ -1,0 +1,8 @@
+_site/
+.quarto/
+.ipynb_checkpoints/
+/.quarto/
+.venv/
+*.ipynb
+_freeze/
+.DS_Store*

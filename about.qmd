@@ -1,0 +1,22 @@
+---
+title: "About"
+image: assets/profile.jpeg
+about:
+  template: broadside
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/rishacha
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rishabh-chakrabarti-776426112/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+
+---
+
+ML Engineer during the weekdays, 
+learning music production during weekends.
+
+Not just this, I'm also trying to get into tech. Not the best way to get through with the main course. 
