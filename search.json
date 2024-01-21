@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "ML Engineer during the weekdays, learning music production during weekends.\nNot just this, I’m also trying to get into tech. Not the best way to get through with the main course."
-  },
-  {
     "objectID": "posts/switching-to-quarto/index.html",
     "href": "posts/switching-to-quarto/index.html",
     "title": "Switching to Quarto",
@@ -19,6 +12,13 @@
     "title": "Switching to Quarto",
     "section": "",
     "text": "\\[\\sum_{n}^{i^2} \\frac{3x}{2}\\]\n\nimport numpy as np"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "ML Engineer during the weekdays, learning music production during weekends.\nNot just this, I’m also trying to get into tech. Not the best way to get through with the main course."
   },
   {
     "objectID": "index.html",
