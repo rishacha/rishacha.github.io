@@ -10,6 +10,8 @@ website:
         href: https://github.com/rishacha
       - icon: twitter
         href: https://twitter.com/basedevel
+execute:
+  freeze: auto
 format:
   html:
     theme: lux
