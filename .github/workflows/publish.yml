@@ -17,8 +17,12 @@ jobs:
         uses: pdm-project/setup-pdm@v4
         # You are now able to use PDM in your workflow
       - name: Install dependencies
-        run: pdm config python.use_venv false && pdm install 
-      # - run: python -m pip install -r requirements.txt
+        run: |
+          mkdir .venv
+          python -m venv .venv
+          source .venv/bin/activate
+          which python
+          pdm install
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
       - name: Render and Publish
