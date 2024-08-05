@@ -26,8 +26,9 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
       - name: Render and Publish
-        uses: quarto-dev/quarto-actions/publish@v2
-        with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          source .venv/bin/activate
+          git config --global user.email "rishacha.dev@gmail.com"
+          git config --global user.name "rishacha-quarto"
+          quarto publish gh-pages . --no-browser
+          
