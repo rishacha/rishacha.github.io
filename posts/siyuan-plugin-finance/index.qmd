@@ -1,0 +1,14 @@
+---
+title: SiYuan Finance Plugin
+author: Rishabh Chakrabarti
+date: '2024-08-05'
+categories:
+  - blog
+  - tech
+  - pkm
+image: image.jpg
+abstract: > 
+  After struggling a lot with issues like rendering jupyter notebooks
+  (css theming, latex etc.) while using Pelican, I decided to switch ...
+jupyter: python3
+---

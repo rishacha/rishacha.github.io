@@ -6,3 +6,4 @@ _site/
 *.ipynb
 _freeze/
 .DS_Store*
+.pdm-python
