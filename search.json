@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Can you please keep it simple?",
+    "section": "",
+    "text": "SiYuan Finance Plugin\n\n\n\n\n\n\nblog\n\n\ntech\n\n\npkm\n\n\n\nAfter struggling a lot with issues like rendering jupyter notebooks (css theming, latex etc.) while using Pelican, I decided to switch … \n\n\n\n\n\nAug 5, 2024\n\n\nRishabh Chakrabarti\n\n\n\n\n\n\n\n\n\n\n\n\nSwitching to Quarto\n\n\n\n\n\n\nblog\n\n\ntech\n\n\n\nAfter struggling a lot with issues like rendering jupyter notebooks (css theming, latex etc.) while using Pelican, I decided to switch … \n\n\n\n\n\nDec 28, 2023\n\n\nRishabh Chakrabarti\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -11,20 +18,13 @@
     "href": "posts/switching-to-quarto/index.html",
     "title": "Switching to Quarto",
     "section": "",
-    "text": "After a lot of struggling around with Pelican and its rendering of Jupyter Notebooks and Latex equations, I’m switching over to Quarto.\n\n\n\\[\\sum_{n}^{i^2} \\frac{3x}{2}\\]\n\nimport numpy as np"
+    "text": "After a lot of struggling around with Pelican and its rendering of Jupyter Notebooks and Latex equations, I’m switching over to Quarto.\n\n\n\n\n\\[\\sum_{n}^{i^2} \\frac{3x}{2}\\] #### Trying out some code\n\nimport numpy as np"
   },
   {
-    "objectID": "posts/switching-to-quarto/index.html#trying-out-some-math",
-    "href": "posts/switching-to-quarto/index.html#trying-out-some-math",
+    "objectID": "posts/switching-to-quarto/index.html#testing-out-some-features",
+    "href": "posts/switching-to-quarto/index.html#testing-out-some-features",
     "title": "Switching to Quarto",
     "section": "",
-    "text": "\\[\\sum_{n}^{i^2} \\frac{3x}{2}\\]\n\nimport numpy as np"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Can you please keep it simple?",
-    "section": "",
-    "text": "Switching to Quarto\n\n\n\n\n\n\n\nblog\n\n\ntech\n\n\n\n\nAfter struggling a lot with issues like rendering jupyter notebooks (css theming, latex etc.) while using Pelican, I decided to switch …\n\n\n\n\n\n\nDec 28, 2023\n\n\nRishabh Chakrabarti\n\n\n\n\n\n\nNo matching items"
+    "text": "\\[\\sum_{n}^{i^2} \\frac{3x}{2}\\] #### Trying out some code\n\nimport numpy as np"
   }
 ]
